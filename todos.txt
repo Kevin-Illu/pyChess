@@ -1,0 +1,4 @@
+TODO: 1- hacer jugada negra
+TODO: 2- hacer jugadas validas
+TODO: 3- verificar jaquez
+TODO: 4- verificar jaque mate 
